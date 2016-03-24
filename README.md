@@ -42,3 +42,7 @@
             android:layout_marginTop="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
+
+##Material Design 时间插件
+![](https://github.com/wangxujie/ScreenShots/blob/master/screens/5.gif?raw=true)
+ 
